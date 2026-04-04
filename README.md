@@ -4,6 +4,26 @@
 
 A Front-end web developer in Phnom Penh.
 
+## Recent works
+
+<p align="center">
+  <a href="https://www.tuxglobalinstitute.edu.kh">
+    <img width="300" src="https://github.com/user-attachments/assets/dfadb231-e62c-4020-a15e-77dc01168106" alt="TUX Global Institute" />
+  </a>
+  <a href="https://www.tuxglobalinstitute.edu.kh">
+    <img width="300" src="https://github.com/user-attachments/assets/98fa7ddc-442d-4293-9c6a-3d1fd548c7b6" alt="TUX Global Institute" />
+  </a>
+  <a href="https://rhac.org.kh">
+    <img width="300" src="https://github.com/sokhuong-uon/sokhuong-uon/assets/77433349/858e6adc-6f77-4710-8ca7-5b0ca7125b48" alt="RHAC home page"/>
+  </a>
+  <a href="https://virtual-tour-nextjs-eight.vercel.app/tour/2">
+    <img src="https://github.com/sokhuong-uon/sokhuong-uon/assets/77433349/43730e9e-c910-491f-ac08-cb94af86d3ba" width="300" alt="Inside a Virtual Tour"/></a>
+  <a href="https://equirectangular-cubemap.vercel.app/">
+    <img src="https://github.com/sokhuong-uon/sokhuong-uon/assets/77433349/82a73439-98d3-4d57-9119-acc32304a142" width="300" alt="Inside a Virtual Tour"/>
+  </a>
+</p>
+
+
 ## Some Tools that I use and explore:
 
 ![React](https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -71,27 +91,6 @@ A Front-end web developer in Phnom Penh.
 ![Neovim](https://img.shields.io/badge/Neovim-000000.svg?style=for-the-badge&logo=Neovim&logoColor=white)
 ![Warp](https://img.shields.io/badge/Warp-000000.svg?style=for-the-badge&logo=Warp&logoColor=white)
 
-
-## Recent works
-
-<ul>
-  <li>
-    <a href="https://www.tuxglobalinstitute.edu.kh"><img width="400" src="https://github.com/user-attachments/assets/dfadb231-e62c-4020-a15e-77dc01168106" alt="TUX Global Institute" /></a>
-  </li>
-  <li>
-    <a href="https://www.tuxglobalinstitute.edu.kh"><img width="400" src="https://github.com/user-attachments/assets/98fa7ddc-442d-4293-9c6a-3d1fd548c7b6" alt="TUX Global Institute" /></a>
-  </li>
-
-  <li>
-    <a href="https://rhac.org.kh"><img src="https://github.com/sokhuong-uon/sokhuong-uon/assets/77433349/858e6adc-6f77-4710-8ca7-5b0ca7125b48" width="400" alt="RHAC home page"/></a>
-  </li>
-  <li>
-    <a href="https://virtual-tour-nextjs-eight.vercel.app/tour/2"><img src="https://github.com/sokhuong-uon/sokhuong-uon/assets/77433349/43730e9e-c910-491f-ac08-cb94af86d3ba" width="400" alt="Inside a Virtual Tour"/></a>
-  </li>
-  <li>
-    <a href="https://equirectangular-cubemap.vercel.app/"><img src="https://github.com/sokhuong-uon/sokhuong-uon/assets/77433349/82a73439-98d3-4d57-9119-acc32304a142" width="400" alt="Inside a Virtual Tour"/></a>
-  </li>
-</ul>
 
 ### Stats
 
