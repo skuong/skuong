@@ -7,6 +7,8 @@ A Front-end web developer in Phnom Penh.
 ## Recent works
 
 <p align="center">
+  <img width="300" alt="Full calendar view for academic schedule management" src="https://github.com/user-attachments/assets/cef5c25c-7042-4831-b01a-d622f1175e61" />
+  <img width="300" alt="Invoice and receipt management app made with Electron" src="https://github.com/user-attachments/assets/121d13e6-216f-44ae-a478-7181d8a81a5f" />
   <a href="https://www.tuxglobalinstitute.edu.kh">
     <img width="300" src="https://github.com/user-attachments/assets/dfadb231-e62c-4020-a15e-77dc01168106" alt="TUX Global Institute" />
   </a>
