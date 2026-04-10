@@ -2,7 +2,7 @@
 
 ### I am [Sokhuong](https://sokhuong.com).
 
-A Front-end web developer in Phnom Penh.
+A software engineer in Phnom Penh.
 
 ## Recent works
 
