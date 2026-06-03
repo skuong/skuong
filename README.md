@@ -2,8 +2,6 @@
 
 ### I am [Sokhuong](https://sokhuong.com).
 
-A software engineer in Phnom Penh.
-
 ## Recent works
 
 <p align="center">
@@ -97,3 +95,7 @@ A software engineer in Phnom Penh.
 ### Stats
 
 [![Top Langs](https://github-readme-stats-sokhuong-uon.vercel.app/api/top-langs/?username=sokhuong-uon&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Referal links
+- [Codecrafters.io: learn to code through tough challenges](https://app.codecrafters.io/r/curious-wombat-692006)
+- [Boot.dev: learn to code via additive lessons](https://www.boot.dev?bannerlord=skuong)
