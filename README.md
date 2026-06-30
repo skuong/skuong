@@ -99,6 +99,6 @@ I'm familiar with Backend and Cloud technologies:
 ![Warp](https://img.shields.io/badge/Warp-000000.svg?style=for-the-badge&logo=Warp&logoColor=white)
 
 
-## Referal links
+## Referal links (to platforms that I use for improving my skills)
 - [Codecrafters.io: learn to code through tough challenges](https://app.codecrafters.io/r/curious-wombat-692006)
 - [Boot.dev: learn to code via additive lessons](https://www.boot.dev?bannerlord=skuong)
