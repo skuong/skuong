@@ -1,3 +1,16 @@
+I'm Sokhuong, I build websites and desktop apps using **React**, **Vue**, **Electron**, and **Tauri**.
+
+I'm familiar with Backend and Cloud technologies:
+- Payload CMS
+- Drizzle ORM
+- SQL
+- Hono
+- Node.js
+- AWS
+- Cloudflare
+- Vercel, and some more.
+
+## Recent Works
 <p align="center">
   <img width="300" alt="Full calendar view for academic schedule management" src="https://github.com/user-attachments/assets/cef5c25c-7042-4831-b01a-d622f1175e61" />
   <img width="300" alt="Invoice and receipt management app made with Electron" src="https://github.com/user-attachments/assets/121d13e6-216f-44ae-a478-7181d8a81a5f" />
