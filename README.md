@@ -1,9 +1,3 @@
-### Hi there 👋
-
-### I am [Sokhuong](https://sokhuong.com).
-
-## Recent works
-
 <p align="center">
   <img width="300" alt="Full calendar view for academic schedule management" src="https://github.com/user-attachments/assets/cef5c25c-7042-4831-b01a-d622f1175e61" />
   <img width="300" alt="Invoice and receipt management app made with Electron" src="https://github.com/user-attachments/assets/121d13e6-216f-44ae-a478-7181d8a81a5f" />
